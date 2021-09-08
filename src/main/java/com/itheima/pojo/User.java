@@ -1,5 +1,7 @@
 package com.itheima.pojo;
 
+import java.util.Date;
+
 /**
  * @Author: youyong
  * @Description: TODO
@@ -8,4 +10,5 @@ package com.itheima.pojo;
 public class User {
     private String name;
     private int age;
+    private Date time;
 }
